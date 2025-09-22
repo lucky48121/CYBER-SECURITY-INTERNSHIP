@@ -1,0 +1,85 @@
+Microsoft Windows [Version 10.0.19045.6216]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::e64b:d4ab:4eed:99d4%4
+   IPv4 Address. . . . . . . . . . . : 192.168.x.x
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::8a02:82a:56c4:4a2c%2
+   IPv4 Address. . . . . . . . . . . : 192.168.x.x
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::42bc:1da8:5775:c3e2%16
+   IPv4 Address. . . . . . . . . . . : 192.168.x.x
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::9b4c:4da7:dc2b:9801%10
+   IPv4 Address. . . . . . . . . . . : 172.16.50.106
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 172.16.50.58
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+C:\Windows\system32>nmap -sS 192.168.1.0/24 -oN scan-results.txt
+Starting Nmap 7.98 ( https://nmap.org ) at 2025-09-22 17:33 +0530
+Stats: 0:00:03 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 1.66% done; ETC: 17:35 (0:01:58 remaining)
+Stats: 0:07:14 elapsed; 0 hosts completed (0 up), 256 undergoing Ping Scan
+Ping Scan Timing: About 45.36% done; ETC: 17:49 (0:08:42 remaining)
+Nmap done: 256 IP addresses (0 hosts up) scanned in 934.33 seconds
+
+C:\Windows\system32>nmap -sS -Pn 192.168.56.0/24 -oN scan-results.txt
+Starting Nmap 7.98 ( https://nmap.org ) at 2025-09-22 17:57 +0530
+Nmap scan report for 192.168.x.x
+Host is up (0.00090s latency).
+Not shown: 992 closed tcp ports (reset)
+PORT     STATE SERVICE
+80/tcp   open  http
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+1521/tcp open  oracle
+8080/tcp open  http-proxy
+
+Nmap done: 256 IP addresses (1 host up) scanned in 13.00 seconds
+

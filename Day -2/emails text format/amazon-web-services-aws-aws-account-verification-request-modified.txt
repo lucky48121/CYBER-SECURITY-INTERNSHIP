@@ -1,0 +1,11 @@
+ 
+Urgent Action Required: Verify Your AWS Account to Avoid Suspension
+Dear {{.FirstName}},
+We hope this message finds you well. Our records indicate that there is an urgent issue with your AWS account that requires immediate verification. Failure to verify your account may result in the suspension of your AWS services.
+To avoid any disruptions, please verify your account by clicking the link below:
+Click Here to Verify Your AWS Account 
+We highly recommend completing this verification process within the next 24 hours to ensure uninterrupted access to your AWS resources.
+Thank you for your prompt attention to this matter.
+Best regards,
+AWS Support Team
+© 2024 AWS. All Rights Reserved.

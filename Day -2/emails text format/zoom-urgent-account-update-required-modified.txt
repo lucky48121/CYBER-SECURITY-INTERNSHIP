@@ -1,0 +1,12 @@
+ 
+Dear {{.FirstName}},
+We hope you're doing well. This notification is to inform you that your Zoom account requires an urgent update to comply with our latest security protocols. To ensure your account is secure and active, please take a moment to update your information.
+Why This Matters:
+Failure to update your account within the next 24 hours will result in temporary suspension to protect your data and privacy.
+What You Need To Do:
+    1. Click on the link below to access your account securely. 
+    2. Follow the instructions to update your information. 
+Update My Zoom Account 
+Thank you for your prompt attention to this matter. If you have any questions, please contact our support team immediately.
+Please do not reply to this email. This is an automated notification.
+© 2024 Zoom Security

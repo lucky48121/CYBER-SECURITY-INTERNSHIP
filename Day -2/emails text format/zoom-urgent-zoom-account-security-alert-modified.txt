@@ -1,0 +1,13 @@
+ 
+Security Alert: Immediate Action Required for Your Zoom Account
+Hi {{.FirstName}},
+We have detected unauthorized access to your Zoom account. As a security measure, you must change your password immediately to ensure the safety of your account and personal information.
+What you need to do: 
+    1. Click on the link below to access your account and change your password. 
+    2. Follow the instructions provided in the secure page. 
+Reset Password Now 
+Failure to act quickly could lead to a potential compromise of your sensitive information. We strongly advise that you update your password as soon as possible to prevent any malicious access.
+If you did not attempt to log in from an unknown device, please ignore this email and report any suspicious activity to our support team.
+Stay safe,
+Zoom Security Team
+© 2024 Zoom Communications. All Rights Reserved. 

@@ -1,0 +1,19 @@
+ 
+Urgent Account Update Request
+Dear {{.FirstName}} {{.LastName}},
+
+We hope this message finds you well. Our records indicate that your Oracle Cloud account information is outdated, which may lead to account suspension if not updated immediately.
+
+To ensure uninterrupted service and to maintain the security of your account, please update your account details by clicking the link below:
+
+Update Your Account Details
+
+It is crucial that you complete this update within the next 24 hours to avoid any disruptions to your Oracle Cloud services.
+
+If you have any questions or need assistance, please do not hesitate to contact our customer support.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+The Oracle Cloud Team 
+© 2024 Oracle Corporation. All rights reserved.

@@ -1,0 +1,11 @@
+ 
+Urgent: Your Webex Account Suspension Notice
+Dear Customer,
+We hope this message finds you well. Our records indicate that there has been unusual activity detected on your Cisco Webex account associated with {{.Email}}. As a precautionary measure, your account will be suspended in 24 hours unless immediate action is taken.
+To avoid suspension, please verify your account by clicking the link below:
+Verify Your Webex Account Now
+This process is quick and straightforward and will help us ensure the security of your account. Please perform this verification within the next 24 hours to keep your account active.
+Thank you for your prompt attention to this matter.
+Best regards,
+Cisco Webex Security Team
+© 2024 Cisco Webex. All rights reserved.

@@ -1,0 +1,18 @@
+ 
+Dear {{.FirstName}},
+We hope this message finds you well. As part of our ongoing efforts to ensure the utmost security of your data, we have identified a critical security update that needs your immediate attention.
+Due to recent advancements and identified vulnerabilities, it is crucial that you update your IBM Cloud account to maintain the highest level of security. Neglecting to apply this update may result in potential data breaches and unauthorized access to your cloud services.
+Action Required: 
+    1. Sign in to your IBM Cloud account using the link below. 
+    2. Update Your Security Settings following the provided instructions. 
+    3. Confirm Update Completion by verifying the security status within your account. 
+Update Your IBM Cloud Security Now 
+We apologize for the urgency, but it is essential to address this as quickly as possible to protect your valuable information. Failure to do so may compromise your account security.
+If you have any questions or need assistance, please do not hesitate to contact our support team at support@ibmcloud.com.
+Thank you for your prompt attention to this critical matter.
+Sincerely,
+IBM Cloud Security Team
+{{company_name}}
+
+Note: For your security, please do not ignore this message. Ensure your account is updated by following the instructions above.
+© 2024 IBM Cloud. All rights reserved.

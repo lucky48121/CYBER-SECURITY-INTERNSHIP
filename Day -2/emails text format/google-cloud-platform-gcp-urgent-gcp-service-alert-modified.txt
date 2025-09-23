@@ -1,0 +1,12 @@
+ 
+Dear {{.FirstName}} {{.LastName}},
+We hope this message finds you well. We are writing to inform you of an urgent matter regarding your Google Cloud Platform (GCP) subscription. Our records indicate that there is an issue that requires your immediate attention to ensure continuous service.
+Action Required:
+Please verify your subscription details by clicking the link below to avoid any interruption to your services.
+Verify Your Subscription 
+Failure to address this issue within the next 24 hours will result in a temporary suspension of your GCP services. We highly encourage you to act promptly to avoid any disruption.
+Thank you for your immediate attention to this urgent matter.
+Best regards,
+Google Cloud Platform Support Team
+© 2024 Google Cloud Platform. All rights reserved.
+

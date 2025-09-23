@@ -1,0 +1,13 @@
+ 
+Hi {{.FirstName}},
+Have you ever wondered who has been checking out your BlueJeans profile? Now you can find out! We've introduced an exciting new feature that allows you to see exactly who has viewed your profile.
+To uncover your profile visitors, simply click the link below:
+See Who Viewed Your Profile
+Hurry, this feature is only available for a limited time. Don't miss the chance to satisfy your curiosity!
+Best regards,
+The BlueJeans Team
+P.S. For any questions or assistance, feel free to contact our support team.
+Stay connected,
+BlueJeans Support
+© 2024 BlueJeans. All rights reserved. 
+

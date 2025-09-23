@@ -1,0 +1,9 @@
+ 
+Congratulations, {{.FirstName}}!
+We are thrilled to inform you that you have been selected as the winner of a free month of BlueJeans Premium subscription! This exclusive offer is our way of showing appreciation for loyal users like you.
+To claim your prize, simply click on the link below and follow the instructions:
+Claim Your Free Month Now!
+Don't miss out on this fantastic opportunity to enjoy all the premium features that BlueJeans has to offer. This offer is valid for a limited time only, so act fast!
+If you have any questions or need assistance, please don't hesitate to reply to this email.
+Congratulations once again, {{.FirstName}}! 
+This email was sent to {{.Email}} by {{company_name}}. © 2024

@@ -1,0 +1,15 @@
+ 
+Urgent: Unusual Activity Detected on Your Slack Account
+Dear {{.FirstName}},
+We have detected unusual activity on your Slack account that suggests it may have been compromised. Your immediate attention is required to secure your account and prevent unauthorized access.
+What you need to do: 
+    1. Verify your identity by following the link below to confirm your account details. 
+    2. Review and update your account security settings to ensure your data remains secure. 
+Verify Identity Now 
+This process is mandatory and must be completed within the next 24 hours to avoid temporary suspension of your account.
+Your security is our top priority, and we appreciate your prompt action.
+Best regards,
+{{company_name}} Security Team
+Please do not reply to this email. If you have any questions, visit our help center or contact support.
+Note: If you believe this message was sent in error, please disregard it.
+© 2024 {{company_name}}. All rights reserved.

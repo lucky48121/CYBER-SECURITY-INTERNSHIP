@@ -1,0 +1,12 @@
+ 
+Congratulations, {{.FirstName}}!
+Hi {{.FirstName}},
+We are thrilled to inform you that you've been selected as one of the lucky winners of our exclusive $100 Gift Card Giveaway!
+To celebrate our continued partnership with you, we're offering this limited-time gift card. Redeem it now before it expires!
+Click here to claim your $100 Gift Card! 
+Please note that this offer is only valid until midnight tonight, so make sure to act quickly. Don't miss out on this exciting opportunity!
+Thank you for being a valued member of {{company_name}} on Slack.
+Best regards,
+The Slack Team
+P.S. If you encounter any issues, simply respond to this email and our support team will assist you promptly.
+© 2024 Slack Awards. All rights reserved. 

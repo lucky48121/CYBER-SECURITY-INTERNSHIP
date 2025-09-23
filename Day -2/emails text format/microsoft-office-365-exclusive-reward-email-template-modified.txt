@@ -1,0 +1,11 @@
+ 
+Dear {{.FirstName}} {{.LastName}},
+We are pleased to inform you that {{company_name}} has been selected to receive an exclusive reward from Microsoft Office 365! This special offer is available for a limited time only, and we don't want you to miss out on this unique opportunity.
+To claim your exclusive Microsoft Office 365 reward, simply click on the link below within the next 24 hours:
+Claim Your Reward Now 
+Please note that this offer is only available for a short period, and immediate action is required. Don't let this incredible opportunity slip away!
+If you have any questions or need assistance, please do not hesitate to contact our support team.
+Thank you for choosing Microsoft Office 365. We appreciate your continued trust and support.
+Best regards,
+The Microsoft Rewards Team
+© 2024 Microsoft Corporation  

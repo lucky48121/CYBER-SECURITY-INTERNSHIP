@@ -1,0 +1,25 @@
+Dear {{.FirstName}},
+
+
+Congratulations! As a valued and loyal Amazon Web Services (AWS) customer, you have been selected to receive a $100 Amazon gift card as a token of our appreciation for your continued support.
+
+To claim your gift card, simply click on the link below and log in with your AWS credentials. This exclusive offer is valid for a limited time, so don't miss out!
+
+Claim Your $100 Gift Card Now Hurry, this offer expires in 24 hours!
+
+Thank you for being a part of the AWS family. We look forward to continuing to serve you with exceptional service and solutions.
+
+Best regards,
+
+The AWS Rewards Team
+
+P.S. If you have any questions or need assistance, please do not hesitate to contact our customer support team.
+
+
+
+© 2024 Amazon Web Services
+
+
+
+
+

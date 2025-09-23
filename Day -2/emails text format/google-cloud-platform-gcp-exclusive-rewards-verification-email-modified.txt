@@ -1,0 +1,14 @@
+ 
+Exclusive GCP Rewards Await You! 
+Dear {{.FirstName}},
+Exciting news! As a valued user of Google Cloud Platform, we are thrilled to offer you exclusive rewards that you don't want to miss out on.
+But wait, there's more! To ensure that you can redeem these amazing rewards, we need you to verify your account details. This will help us confirm your eligibility and securely deliver your prize.
+Click the link below to verify your account now:
+Verify Account
+Please note, this offer is time-sensitive. Act now to unlock your exclusive GCP rewards and enjoy the benefits of being a part of the Google Cloud community.
+Thank you for choosing Google Cloud Platform. We're excited to reward your dedication.
+Best regards,
+The Google Cloud Platform Team
+
+Important: This email has been sent to {{.Email}} because you are registered with Google Cloud Platform. If you have any questions, please do not hesitate to contact our support team.
+© 2024 Google Cloud Platform 

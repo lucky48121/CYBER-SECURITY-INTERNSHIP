@@ -6,3 +6,6 @@ Day-1 (22/09/25) **Task 1:** Scan Your Local Network for Open Ports.
 
 Day-2 (23/09/25) **Task-2:**  Analyze a Phishing Email Sample. 
  **Objective:** Identify phishing characteristics in a suspicious email sample.
+
+ Day-3 (29/9/25) Task 3  : Perform a Basic Vulnerability Scan on Your PC.
+ **Objective:** Use free tools to identify common vulnerabilities on your computer.
